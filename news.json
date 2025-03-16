@@ -1,14 +1,14 @@
 [
     {
-        "title": "Открытие лаунчера",
-        "imageUrl": "https://i.ibb.co/671QqYWw/image.png",
-        "description": "Долгожданный релиз лаунчера с обновлённой защитой уже скоро окажется в вашей игре.",
-        "date": "20.02.2025"
-    },
-    {
         "title": "Обновление дизайна",
-        "imageUrl": "https://i.ibb.co/G3C3xzhT/1.png",
+        "imageUrl": "https://i.ibb.co/3Vcf35g/image.png",
         "description": "Дизайн лаунчера был кардинально изменён.",
         "date": "14.03.2025"
+    },
+    {
+        "title": "Открытие лаунчера",
+        "imageUrl": "https://i.ibb.co/RpFKzknF/photo-2023-11-08-20-20-00.jpg",
+        "description": "Долгожданный релиз лаунчера с обновлённой защитой уже скоро окажется в вашей игре.",
+        "date": "20.02.2025"
     }
 ]
